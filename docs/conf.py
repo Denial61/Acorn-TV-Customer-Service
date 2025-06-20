@@ -8,7 +8,7 @@ exclude_patterns = []
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
-html_favicon = '/https://img.utdstc.com/icon/842/cef/842ceff4223c4f530d0fe383310b4fec4a83acc42dd4be0345fd577089c82e2f:100'
+html_favicon = 'acorn-favicon.jpg'
 
 html_js_files = [
     'chatbot.js',
