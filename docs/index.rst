@@ -7,7 +7,7 @@ How Do I Contact Acorn TV Customer Service Easily?
 
 Need help with Acorn TV? Learn how to contact Acorn TV customer service, solve account issues, and get fast support in this simple, human-friendly guide.
 
-.. image:: https://expressvpn-help.readthedocs.io/en/latest/_images/service.jpg
+.. image:: service.jpg
    :alt: Acorn TV Customer Service
    :width: 400px
    :align: center
